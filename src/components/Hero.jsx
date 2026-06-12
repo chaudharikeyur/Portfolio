@@ -31,7 +31,7 @@ const Hero = ({ isRecruiterMode, toggleRecruiterMode }) => {
             </div>
             <div className="flex items-center md:justify-end gap-2">
               <Linkedin size={14} />
-              <a href={linkedin} target="_blank" rel="noreferrer" className="hover:underline">linkedin.com/in/keyurchaudhari</a>
+              <a href={linkedin} target="_blank" rel="noreferrer" className="hover:underline">https://www.linkedin.com/in/keyur-chaudhari-5635051ba/</a>
             </div>
           </div>
         </div>

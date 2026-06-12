@@ -6,7 +6,7 @@ export const portfolioData = {
     phone: "+91-9834219909",
     location: "Pune, India",
     github: "https://github.com/chaudharikeyur",
-    linkedin: "https://linkedin.com/in/keyurchaudhari", // standard profile naming
+    linkedin: "https://www.linkedin.com/in/keyur-chaudhari-5635051ba/", // standard profile naming
     summary: "High-performing Fullstack Developer with a proven record of architecting scalable microservices, optimizing database systems, and crafting responsive frontend applications. Experienced in React.js, Node.js, and cloud deployments.",
     detailedSummary: "Dynamic software engineer specializing in building high-performance web applications, scalable APIs, and real-time streaming engines. Recognized as 'Employee of the Quarter' for contributions in architecting mission-critical microservices, task pipelines, and spatial analytical tools. Passionate about system optimization, reducing API response times, and automating enterprise reporting workflows.",
   },
